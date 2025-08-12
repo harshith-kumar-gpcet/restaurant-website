@@ -1,6 +1,5 @@
 vist site https://harshith-kumar-gpcet.github.io/restaurant-website/
 
-
 My Static Website on GitHub Pages
 This is a simple static website created with HTML and CSS, hosted for free using GitHub Pages.
 
