@@ -1,10 +1,9 @@
-vist site https://harshith-kumar-gpcet.github.io/restaurant-website/
-
 My Static Website on GitHub Pages
 This is a simple static website created with HTML and CSS, hosted for free using GitHub Pages.
 
 🌐 Live Demo
 Click here to view the site
+https://harshith-kumar-gpcet.github.io/restaurant-website/
 
 📂 Project Structure
 📦 Project Folder ┣ 📜 index.html ┗ 📜 style.css
@@ -13,7 +12,7 @@ index.html – Main HTML file.
 
 style.css – Styling for the website.
 🚀 Deployment Steps
-Created a GitHub repository harshith-kumar-gpcet.github.io/restaurant-website
+Created a GitHub repository named amburu-harshith.github.io.
 Cloned the repository locally using Git.
 Added my HTML and CSS files to the folder.
 Committed and pushed the files to GitHub.
